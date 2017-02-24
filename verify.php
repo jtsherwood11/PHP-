@@ -3,7 +3,7 @@
 
 /*
  * THIS SCRIPT IS TO VALIDATE EMAIL ADDRESS ACUTUALLY EXISTSSSSSS
-
+ * IN THEORY_>>>>>>>>>>>>>>>>>>>>>>>
 */
 
 
